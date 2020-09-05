@@ -1,0 +1,29 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+td {
+    border: 1px solid black;
+    width: 20px;
+
+}
+
+ul li {
+    background-color: yellow;
+    list-style: none;
+}
+
+li a {
+    color: black;
+}
+
+.resaltar {
+    background-color: yellow;
+}
