@@ -33,7 +33,7 @@ function showTable($numero_ingresado){
     $valor_fijo = 1;
     $valor_modif = 1;
     echo '<div id="table_one">
-          <table>;
+          <table>
           <tbody>
           <tr><td></td>';
         for($i = $valor_modif; $i<=$numero_ingresado; $i++){
@@ -59,6 +59,7 @@ echo ' </tbody>
       </table>
     </div>
     <a href="home"> Volver</a>
+    </div>
     <script src="js/main.js"></script>
     </body>
     </html>

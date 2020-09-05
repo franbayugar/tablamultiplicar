@@ -10,6 +10,7 @@ echo '
   <title>Tabla de multiplicar</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body id="container">
+<body>
+<div id="container">
 ';
 
